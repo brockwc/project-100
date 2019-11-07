@@ -4,4 +4,7 @@
 
 body {
   background-color: goldenrod;
+  font-family: monospace;
+  margin-top: 50px;
+  text-align: center;
 }
